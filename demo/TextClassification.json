@@ -1,0 +1,25 @@
+
+[
+    {
+ 
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "好"
+                            ]
+                        },
+                        "from_name": "sentiment",
+                        "to_name": "text",
+                        "type": "choices"
+                    }
+                ]
+            }
+        ],
+        "data": {
+            "text": "一个json操作库"
+        }
+    }
+]
